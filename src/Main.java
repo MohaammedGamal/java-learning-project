@@ -11,6 +11,7 @@ public class Main {
         BMW.set_speed(500);
         BMW.get_speed();
         // test
+        // test2
 
     }
 
