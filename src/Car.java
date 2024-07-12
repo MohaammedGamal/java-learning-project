@@ -3,8 +3,8 @@ public class Car {
     int speed;
     int max_speed;
 
-    Car() {
-        this.initial_speed = 0;
+    Car(int i_speed) {
+        this.initial_speed = i_speed;
         this.speed = this.initial_speed;
     }
 
