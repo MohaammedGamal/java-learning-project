@@ -6,7 +6,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        String name = "test";
+        String name = "Mohamed";
         String nick_name = "Gemy";
         String another_name = "Muhamed ahmed";
 
@@ -21,7 +21,9 @@ public class Main {
         }
 
         switch (name) {
+            // Using multiple cases at once that have the same output
             case "Mohamed":
+            case "Mr Mohamed":
                 System.out.println("Descent ...");
                 break;
             case "Jamjoom":
